@@ -1,0 +1,29 @@
+_repo: Careless-Jane-and-Other-Tales_24167
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 24167-h/images/cover111.png
+creator:
+  author:
+    agent_name: Pyle, Katharine
+    alias: Pyle, Katherine
+    birthdate: 1863
+    deathdate: 1938
+    gutenberg_agent_id: '1139'
+    url: http://www.gutenberg.org/2009/agents/1139
+    wikipedia: http://en.wikipedia.org/wiki/Katharine_Pyle
+description: ''
+gutenberg_issued: '2008-01-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24167'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s poetry, American'
+- !lcc 'PZ'
+- !lcsh 'Conduct of life -- Juvenile poetry'
+title: Careless Jane and Other Tales
+url: http://www.gutenberg.org/ebooks/24167
